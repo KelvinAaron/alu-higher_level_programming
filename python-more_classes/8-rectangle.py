@@ -1,4 +1,6 @@
- a Rectangle class."""
+#!/usr/bin/python3
+# 8-rectangle.py
+"""Defines a Rectangle class."""
 
 
 class Rectangle:

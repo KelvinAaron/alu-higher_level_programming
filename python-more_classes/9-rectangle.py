@@ -1,4 +1,6 @@
- a Rectangle class."""
+#!/usr/bin/pyhton3
+# 9-rectangle.py
+"""Defines a Rectangle class."""
 
 
 class Rectangle:

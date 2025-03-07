@@ -7,5 +7,5 @@ def safe_print_division(a, b):
         except:
             result = None
             print("Inside result: {}".format(result))
-        finally:
-            :return result
+    finally:
+        return result

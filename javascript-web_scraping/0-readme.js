@@ -2,7 +2,6 @@
 const fs = require('fs');
 
 fs.readFile(process.argv[2], function (err, data) {
-  err && console.log(err);
-  const content = data;
-  console.log(content.toString());
+  if (err) return console.error(err);
+  console.log(data.toString());
 });

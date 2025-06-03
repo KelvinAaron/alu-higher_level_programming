@@ -1,1 +1,1 @@
-Directory to practice web scraping here
+Directory to practice web scraping.
